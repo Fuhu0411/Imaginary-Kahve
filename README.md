@@ -2,8 +2,8 @@
 Huu Nguyen Phu Le
 
     Instead of typing in all the values, given a hypothetical situation where I have a coffee shop, 
-    where I can get orders from my VIP customers or new ones, I keep track of all the orders and calculate 
-    the sales summary.
+    where I can get orders from my VIP customers or new ones, I keep track of all the orders and
+    calculate the sales summary.
     
     I randomize the orders so that every time I run the prorgam, I get a different set of orders
     
