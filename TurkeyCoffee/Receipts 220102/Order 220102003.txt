@@ -1,0 +1,7 @@
+220102003
+HUGH
+
+KIOSK
+NORMAL,1,false
+NORMAL,2,false
+NORMAL,2,false

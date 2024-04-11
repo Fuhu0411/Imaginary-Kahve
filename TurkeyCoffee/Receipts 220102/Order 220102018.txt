@@ -1,0 +1,5 @@
+220102018
+Anonymous 6
+
+KIOSK
+NORMAL,2,false

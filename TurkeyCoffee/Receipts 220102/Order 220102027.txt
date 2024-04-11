@@ -1,0 +1,5 @@
+220102027
+HUGH
+
+DRONE
+NORMAL,1,false

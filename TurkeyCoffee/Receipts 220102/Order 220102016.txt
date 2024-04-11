@@ -1,0 +1,7 @@
+220102016
+Anonymous 4
+
+KIOSK
+NORMAL,2,false
+NORMAL,2,false
+NORMAL,2,false

@@ -1,0 +1,8 @@
+220102020
+VEDAST
+
+KIOSK
+NORMAL,2,false
+CUCUK,1,true
+NORMAL,1,false
+NORMAL,2,true

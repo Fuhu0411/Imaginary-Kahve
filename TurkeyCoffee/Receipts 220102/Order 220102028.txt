@@ -1,0 +1,5 @@
+220102028
+Anonymous 11
+
+KIOSK
+NORMAL,2,false

@@ -1,0 +1,6 @@
+220102026
+BEATA
+
+KIOSK
+NORMAL,2,false
+BUYUK,1,false

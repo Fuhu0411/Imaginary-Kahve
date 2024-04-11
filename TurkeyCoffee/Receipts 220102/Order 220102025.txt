@@ -1,0 +1,7 @@
+220102025
+IQBAL
+
+KIOSK
+BUYUK,2,false
+BUYUK,2,true
+NORMAL,2,false

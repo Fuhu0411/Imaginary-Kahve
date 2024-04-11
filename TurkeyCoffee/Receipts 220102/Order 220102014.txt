@@ -1,0 +1,8 @@
+220102014
+HUGH
+
+HAND
+NORMAL,2,false
+NORMAL,2,true
+NORMAL,1,false
+NORMAL,4,true

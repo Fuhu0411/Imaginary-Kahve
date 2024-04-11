@@ -1,0 +1,6 @@
+220102008
+KWAN
+
+KIOSK
+BUYUK,2,false
+BUYUK,2,false

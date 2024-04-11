@@ -1,0 +1,6 @@
+220102032
+Anonymous 14
+
+KIOSK
+NORMAL,2,false
+NORMAL,2,false

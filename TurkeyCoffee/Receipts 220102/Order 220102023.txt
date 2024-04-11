@@ -1,0 +1,8 @@
+220102023
+VEDAST
+
+HAND
+BUYUK,0,false
+NORMAL,2,true
+BUYUK,2,false
+BUYUK,2,false

@@ -1,0 +1,8 @@
+220102002
+HUGH
+
+HAND
+NORMAL,2,false
+NORMAL,2,false
+BUYUK,2,false
+BUYUK,2,false

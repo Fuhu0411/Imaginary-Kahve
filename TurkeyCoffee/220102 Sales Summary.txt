@@ -1,0 +1,19 @@
+Total number of deliveries by Drone: 9
+Total number of deliveries by Hand: 3
+Total number of deliveries at Kiosk: 23
+Total number of NORMAL: 63
+Total number of CUCUK: 3
+Total number of BUYUK: 8
+Total number of Coffee sold: 74
+Gross sales: 77.25
+Number of takeaway: 9
+Amount of paper collected in fees: 2.25
+Total amount of sugar used: 147
+Average number of sugars used (NORMAL): 2.0
+Average number of sugars used (CUCUK): 3.0
+Average number of sugars used (BUYUK): 1.3
+Anonymous percentage: 37.14%
+Customer with name percentage: 62.86%
+Percentage at KIOSK: 65.71%
+Percentage by HAND: 8.57%
+Percentage by DRONE: 25.71%

@@ -1,0 +1,7 @@
+220102006
+VEDAST
+
+KIOSK
+NORMAL,2,true
+NORMAL,10,false
+NORMAL,2,false
