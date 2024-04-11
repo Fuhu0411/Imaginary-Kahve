@@ -1,3 +1,4 @@
+```
 Huu Nguyen Phu Le
 
 Instead of typing in all the values, given a hypothetical situation where I have a coffee shop, 
@@ -22,3 +23,4 @@ Services traits:
 
 Requirements:
     1. Make sure the file paths are correctly configured to your machine before running
+```
